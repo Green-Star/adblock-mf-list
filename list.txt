@@ -6,4 +6,8 @@
 ! License: GNU GPL v3
 !
 ! Report problems or unblocked ads to adblock@cpy.re
-t411.io
+
+! t411.io
+||pubdirecte.com$domain=t411.io
+||onclickads.net$domain=t411.io
+||adcash.com$domain=t411.io
