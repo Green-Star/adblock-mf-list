@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Title: Adblock MF
 ! Last modified: 14 Mar 2015 17:30 UTC
 ! Expires: 5 days (update frequency)
