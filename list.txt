@@ -1,0 +1,9 @@
+! Title: Adblock MF
+! Last modified: 14 Mar 2015 17:30 UTC
+! Expires: 5 days (update frequency)
+! List maintainers: Chocobozzz
+! Homepage: https://github.com/Chocobozzz/adblock-mf-list
+! License: GNU GPL v3
+!
+! Report problems or unblocked ads to adblock@cpy.re
+t411.io
