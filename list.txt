@@ -23,3 +23,12 @@
 ||track.vmedia.tv$popup,domain=cpasbien.pw
 ||cpasbien.pw/infopop$domain=cpasbien.pw
 ||prm.cpasbien.pe/js/ec_connectorDelivery.js
+
+! envertetcontretous.fr
+||ad.360yield.com$domain=envertetcontretous.fr
+||cat.nl.eu.criteo.com$domain=envertetcontretous.fr
+||static.criteo.net$domain=envertetcontretous.fr
+||pagead2.googlesyndication.com$domain=envertetcontretous.fr
+||trc.taboola.com$domain=envertetcontretous.fr
+||cat.fr.eu.criteo.com$domain=envertetcontretous.fr
+||cas.criteo.com$domain=envertetcontretous.fr
