@@ -13,5 +13,13 @@
 ||onclickads.net$domain=t411.io
 ||adcash.com$domain=t411.io
 
-! kickass.{s,t}o
+! kickass.to
 ||kickass.to/adx.php$domain=kickass.to
+
+! cpabien.pw
+||newpromo.cpasbien.pe$domain=cpasbien.pw
+||media.yesmessenger.com$domain=cpasbien.pw
+||ktu.sv2.biz$domain=cpasbien.pw
+||track.vmedia.tv$popup,domain=cpasbien.pw
+||cpasbien.pw/infopop$domain=cpasbien.pw
+||prm.cpasbien.pe/js/ec_connectorDelivery.js
