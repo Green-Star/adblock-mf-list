@@ -32,3 +32,6 @@
 ||trc.taboola.com$domain=envertetcontretous.fr
 ||cat.fr.eu.criteo.com$domain=envertetcontretous.fr
 ||cas.criteo.com$domain=envertetcontretous.fr
+||c.ad6media.fr/l.js$domain=envertetcontretous.fr
+||ads.ayads.co$domain=envertetcontretous.fr
+||adyoulike.omnitagjs.com$domain=envertetcontretous.fr
