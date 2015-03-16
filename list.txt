@@ -12,3 +12,6 @@
 ||pubdirecte.com$domain=t411.io
 ||onclickads.net$domain=t411.io
 ||adcash.com$domain=t411.io
+
+! kickass.{s,t}o
+||kickass.to/adx.php$domain=kickass.to
