@@ -35,3 +35,9 @@
 ||c.ad6media.fr/l.js$domain=envertetcontretous.fr
 ||ads.ayads.co$domain=envertetcontretous.fr
 ||adyoulike.omnitagjs.com$domain=envertetcontretous.fr
+
+! youtube video ads
+||googleads.g.doubleclick.net$domain=youtube.com
+||pagead2.googlesyndication.com$domain=youtube.com
+||ad.doubleclick.net$popup,domain=youtube.com
+||ad.doubleclick.net$domain=youtube.com
